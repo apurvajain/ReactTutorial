@@ -1,2 +1,5 @@
 # ReactTutorial
-Trying react from scratch
+
+##Getting Started
+npm install
+npm start
